@@ -16,13 +16,11 @@
 <br />
 
 <h3><strong>1. 반환 요청</strong></h3>
-<hr />
 <img src="https://user-images.githubusercontent.com/80610295/216800291-06c2eb77-83a0-4d7c-a6cb-5ed9876a4cbe.png" />
 
 <br />
 
 <h3><strong>2. 반환</strong></h3>
-<hr />
 <img src="https://user-images.githubusercontent.com/80610295/216800310-16e72a9d-e368-4a8d-aeca-266d5e4a689e.png" />
 
 
