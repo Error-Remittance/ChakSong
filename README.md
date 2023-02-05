@@ -9,7 +9,7 @@
 **[🔗Google Play 다운로드](https://play.google.com/store/apps/details?id=com.chaksong.release)**
 
 
-<hr />
+
 <br />
 
 ## 🤔 반환 요청 및 반환 절차
